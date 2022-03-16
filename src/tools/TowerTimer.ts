@@ -47,7 +47,4 @@ export class TowerTimer {
             this.repeatableJob = null;
         }
     }
-    edit(){
-
-    }
 }
